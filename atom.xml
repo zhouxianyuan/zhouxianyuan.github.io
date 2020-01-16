@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>ZhouXianYuan&#39;s blog</title>
+  <title>ZhouXianYuan&#39;s Blog</title>
   <icon>https://zhouxianyuan.github.io/icon.png</icon>
   <subtitle>周贤渊的小屋</subtitle>
   <link href="/atom.xml" rel="self"/>
