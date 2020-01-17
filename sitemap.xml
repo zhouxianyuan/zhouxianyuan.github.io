@@ -2,14 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://zhouxianyuan.github.io/lib/three/package.json</loc>
+    <loc>https://zhouxianyuan.github.io/lib/fancybox/README.html</loc>
+    
+    <lastmod>2020-01-17T06:43:40.992Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zhouxianyuan.github.io/lib/three/renovate.json</loc>
     
     <lastmod>2020-01-16T13:43:55.158Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://zhouxianyuan.github.io/lib/three/renovate.json</loc>
+    <loc>https://zhouxianyuan.github.io/lib/three/package.json</loc>
     
     <lastmod>2020-01-16T13:43:55.158Z</lastmod>
     
