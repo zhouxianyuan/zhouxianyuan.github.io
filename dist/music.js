@@ -6,14 +6,14 @@ const ap = new APlayer({
       {
         name: "アイロニ",
         artist: '许まじ娘',
-        url: 'http://antiserver.kuwo.cn/anti.s?format=mp3|aac&rid=20673606&type=convert_url&response=res',
-        cover: 'https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjS_-f2-IrnAhXGUN4KHVRoABwQjRx6BAgBEAQ&url=https%3A%2F%2Ftwitter.com%2Fhajimete2233&psig=AOvVaw2kHJHE2YbA3-JVKhHVJImm&ust=1579361147903826',
+        url: 'http://music.163.com/song/media/outer/url?id=ID31421442.mp3',
+        cover: 'http://p1.music.126.net/4Zpn57gnArtV3F5xiNBK0g==/109951163598414321.jpg',
+      },
+      {
+        name: "打上花火",
+        artist: 'DAOKO / 米津玄師',
+        url: 'http://music.163.com/song/media/outer/url?id=ID496869422.mp3',
+        cover: 'http://p1.music.126.net/ZUCE_1Tl_hkbtamKmSNXEg==/109951163009282836.jpg',
       }
-      /*{
-        name: '多余的解释',
-        artist: '许嵩',
-        url: 'http://www.ytmp3.cn/down/60447.mp3',
-        cover: 'http://img.ytmp3.cn/image/78.jpg',
-      }*/
     ]
 });
