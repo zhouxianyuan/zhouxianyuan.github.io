@@ -1,11 +1,11 @@
 const ap = new APlayer({
     container: document.getElementById('aplayer'),
     fixed: true,
-    autoplay: true,
+    autoplay: false,
     order: 'list',
     theme: '#FADFA3',
     loop: 'all',
-    order: 'random',
+    order: 'list',
     preload: 'auto',
     //volume: 0.7,
     mutex: true,
