@@ -3,7 +3,7 @@
   <title>周贤渊de小站</title>
   <icon>https://www.zhouxianyuan.xyz/icon.png</icon>
   <subtitle>ZhouXianYuan&#39;s Blog</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://www.zhouxianyuan.xyz/"/>
   <updated>2020-01-16T13:22:08.110Z</updated>
