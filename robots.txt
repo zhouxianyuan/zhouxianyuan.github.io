@@ -12,5 +12,4 @@ Disallow: /vendors/
 Disallow: /fancybox/
 Disallow: /categories/
 
-Sitemap: http://zhouxianyuan.xyz/sitemap.xml
-Sitemap: http://zhouxianyuan.xyz/baidusitemap.xml
+Sitemap: https://www.zhouxianyuan.xyz/sitemap.xml
