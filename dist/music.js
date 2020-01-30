@@ -5,10 +5,10 @@ const ap = new APlayer({
 
     audio: [
       {
-        name: "写给我第一个喜欢的女孩的歌",
-        artist: '西瓜Kune',
-        url: '  http://music.163.com/#/song?id=408250378',
-        cover: 'http://p2.music.126.net/hdrjFYPZXd2HgL-3OMlDIw==/18290375928279193.jpg',
+        name: "アイロニ",
+        artist: '许まじ娘',
+        url: '  http://antiserver.kuwo.cn/anti.s?format=mp3|aac&rid=20673606&type=convert_url&response=res',
+        cover: 'http://p1.music.126.net/4Zpn57gnArtV3F5xiNBK0g==/109951163598414321.jpg',
       },
       {
         name: "打上花火",
