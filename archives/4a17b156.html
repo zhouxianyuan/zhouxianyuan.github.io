@@ -592,12 +592,25 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
       avatar: 'mm',
       meta: guest,
       pageSize: '10' || 10,
+      var infoEle = document.querySelector('#comments .info');
+      if (infoEle && infoEle.childNodes && infoEle.childNodes.length > 0){
+      infoEle.childNodes.forEach(function(item) {
+      item.parentNode.removeChild(item);
+      });
+      }       
       visitor: false,
       lang: '' || 'zh-cn',
       path: location.pathname,
       recordIP: false,
       serverURLs: ''
     });
+    
+var infoEle = document.querySelector('#comments .info');
+if (infoEle && infoEle.childNodes && infoEle.childNodes.length > 0){
+  infoEle.childNodes.forEach(function(item) {
+    item.parentNode.removeChild(item);
+  });
+}
   }, window.Valine);
 });
 </script>
