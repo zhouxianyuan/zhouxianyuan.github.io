@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.zhouxianyuan.xyz/about/index.html</loc>
+    
+    <lastmod>2020-01-30T15:22:37.499Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.zhouxianyuan.xyz/lib/fancybox/README.html</loc>
     
     <lastmod>2020-01-17T06:43:40.992Z</lastmod>
@@ -65,13 +72,6 @@
   </url>
   
   <url>
-    <loc>https://www.zhouxianyuan.xyz/archives/4a17b156.html</loc>
-    
-    <lastmod>2020-01-16T13:22:08.125Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.zhouxianyuan.xyz/archives/7525f478.html</loc>
     
     <lastmod>2020-01-16T13:22:08.110Z</lastmod>
@@ -89,13 +89,6 @@
     <loc>https://www.zhouxianyuan.xyz/tags/index.html</loc>
     
     <lastmod>2020-01-16T10:21:45.900Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.zhouxianyuan.xyz/about/index.html</loc>
-    
-    <lastmod>2020-01-16T10:16:01.633Z</lastmod>
     
   </url>
   
