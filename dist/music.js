@@ -3,8 +3,7 @@ const ap = new APlayer({
     fixed: true,
     autoplay: false,
 
-    audio: [
-      
+    audio: [   
       {
         name: "写给我第一个喜欢的女孩的歌",
         artist: '西瓜Kune',
