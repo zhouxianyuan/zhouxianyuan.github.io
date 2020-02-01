@@ -16,7 +16,6 @@ const ap = new APlayer({
         url: '  https://music.163.com/song/media/outer/url?id=31421442.mp3',
         cover: 'http://p1.music.126.net/4Zpn57gnArtV3F5xiNBK0g==/109951163598414321.jpg',
       },
-      
       {
         name: "打上花火",
         artist: 'DAOKO / 米津玄師',
