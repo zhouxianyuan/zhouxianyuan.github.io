@@ -4,17 +4,18 @@ const ap = new APlayer({
     autoplay: false,
 
     audio: [   
-      {
-        name: "写给我第一个喜欢的女孩的歌",
-        artist: '西瓜Kune',
-        url: '  https://music.163.com/song/media/outer/url?id=408250378.mp3',
-        cover: 'http://p1.music.126.net/hdrjFYPZXd2HgL-3OMlDIw==/18290375928279193.jpg',
-      },
+      
       {
         name: "アイロニ",
         artist: 'majiko',
         url: '  https://music.163.com/song/media/outer/url?id=31421442.mp3',
         cover: 'http://p1.music.126.net/4Zpn57gnArtV3F5xiNBK0g==/109951163598414321.jpg',
+      },
+      {
+        name: "写给我第一个喜欢的女孩的歌",
+        artist: '西瓜Kune',
+        url: '  https://music.163.com/song/media/outer/url?id=408250378.mp3',
+        cover: 'http://p1.music.126.net/hdrjFYPZXd2HgL-3OMlDIw==/18290375928279193.jpg',
       },
       {
         name: "打上花火",
