@@ -1322,7 +1322,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #65ff14;
+  background: #a6ffed;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2933,4 +2933,13 @@ ul.breadcrumb li + li:last-child {
   .pagination {
     margin: 8px 0 0;
   }
+}
+body {
+  background-image: url("https://zhouxianyuanblog-1301135479.file.myqcloud.com/images/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.main-inner {
+  opacity: 0.7;
 }
