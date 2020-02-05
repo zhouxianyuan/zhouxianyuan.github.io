@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>最近的一点废话</title>
+    <url>/archives/a0e63928.html</url>
+    <content><![CDATA[<p>博客网站突然变成404后的一些胡言乱语（吐槽）</p>
+<a id="more"></a>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>今天折腾了一下老惠普上的Ubuntu，之前发现老惠普连不上家里WIFI，上网学习一通发现还是买个无线网卡简单，于是又度过了等快递悠闲<del>虚度光阴</del>的几天，<br>今天网卡到了，插上把自己的Ubuntu简单配置了一下，结果在chrome浏览器里打不开自己的博客了😖😖😖</p>
+<h3 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h3><p>去DnsPod看了下域名的解析记录，好像没啥问题，然鹅网站已成404，GitHub上的Repositories看着也正常部署，结果是coding不知道啥时后把我部署的静态网站给删了。。。。</p>
+<h3 id="吐槽"><a href="#吐槽" class="headerlink" title="吐槽"></a>吐槽</h3><p><em>有一说一，coding好歹也是有腾讯云背书的‘大公司’，但这静态网站说没就没是什么鬼？只想说一句coding辣鸡，虽然我coding注册初衷就只是用来白嫖静态网站的，但coding这操作属实败坏好感，这次搞没静态网页，下次别把仓库无了</em></p>
+<h3 id="后续"><a href="#后续" class="headerlink" title="后续"></a>后续</h3><p>今天整Linux发现一个Linux博客，从<a href="https://www.lulinux.com/archives/1319" target="_blank" rel="noopener">Linux运行wine QQ</a>文章里进去的，看了下博客是个Linux老玩家，但主要他博客中对GNU，开源，自由软件的一些看法给我带来不小的冲击，虽然感觉极端了一点，但确实让我反思了过去自己的一些狭隘的地方，分享一下他的<a href="https://www.lulinux.com/about_lulinux" target="_blank" rel="noopener">个人主页</a>,从他这里看，我对coding的怨气就显得比较可笑了<br>ID：<strong>撸linux</strong> 也是够朋克，用他思想词典里对<strong><em>学生党</em></strong>的定义来鞭策一下自己：</p>
+<h6 id="学生党：-正处于生长状态的一类人，啃老族，多闲人，知识面小，经验少，却好斗，喜争论，喜伸手，喜幻想，理想主义，总想搞一波大的。这类人如果掌握了权力，后果非常可怕。参考塔利班和青年党"><a href="#学生党：-正处于生长状态的一类人，啃老族，多闲人，知识面小，经验少，却好斗，喜争论，喜伸手，喜幻想，理想主义，总想搞一波大的。这类人如果掌握了权力，后果非常可怕。参考塔利班和青年党" class="headerlink" title="学生党： 正处于生长状态的一类人，啃老族，多闲人，知识面小，经验少，却好斗，喜争论，喜伸手，喜幻想，理想主义，总想搞一波大的。这类人如果掌握了权力，后果非常可怕。参考塔利班和青年党"></a><em>学生党： 正处于生长状态的一类人，啃老族，多闲人，知识面小，经验少，却好斗，喜争论，喜伸手，喜幻想，理想主义，总想搞一波大的。这类人如果掌握了权力，后果非常可怕。参考塔利班和青年党</em></h6><p>希望自己能常常反思自己，是否在成为他词典中的那种<strong>‘’学生党’’</strong></p>
+]]></content>
+      <categories>
+        <category>日志</category>
+      </categories>
+      <tags>
+        <tag>杂谈</tag>
+        <tag>日志</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>折腾安装Ubuntu18.04单系统</title>
     <url>/archives/2f3af8d2.html</url>
     <content><![CDATA[<p>记录自己在笔记本上安装<del>瞎折腾</del>Ubuntu18.04的经历</p>
